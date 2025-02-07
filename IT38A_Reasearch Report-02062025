@@ -50,10 +50,32 @@ d.User Adoption: User-friendly system with proper training.                     
 e.Outcomes: Improved efficiency, better collaboration, and streamlined processes.    System failures, financial losses, and reputational damage. 
 
      d.2. Critical Success vs. Failure Factors
+    
+     Success Factors (Palfinger):                                              
+
+     Standardized Processes: Ensured accurate and complete data.  
+     Low-Code Platform: Faster development, lower costs.  
+     Thorough Testing: Validated system before full deployment.  
+     
+     Failure Factors (Hershey's):
+
+     Rushed Implementation: Compressed timeline led to poor preparation.  
+     Inadequate Testing:  Skipped critical testing phases. 
+     Poor Timing: Launched system during peak sales period.  
+
+
+
+
+
      d.3. Key Takeaways & Lessons Learned include the following questions:
             1. What did the successful case do right?
+            Palfinger selected a system that was easy to use and customize, allowed time gradual adoption and testing
+,and Implementation was scheduled to avoid business disruptions.
             2. What went wrong in the failed case?
+            Hershey's rushed the implementation to meet the arbitrary due, the testing was insufficient that leads to undetected bugs that cause system failures, the system went live at worst possible time-during peak sales.
             3. How can future implementations avoid similar failures?
+            Follow the realistic timeline, ensure enough time for testing, avoid lunching new system during peak operational periods, provide adequate training to employees before deploying.
+
  e. Insights & recommendations
      e.1. Best Practices for Successful Enterprise System Implementation
      e.2. Strategies to Avoid Failure
