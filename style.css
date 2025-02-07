@@ -5,7 +5,7 @@ body {
 }
 .sidebar {
     width: 250px;
-    background: #2C3E50;
+    background: #354c63;
     color: white;
     height: 100vh;
     padding: 20px;
@@ -24,7 +24,7 @@ body {
     transition: background 0.3s;
 }
 .sidebar ul li:hover {
-    background: #2f4357;
+    background: #2f4459;
 }
 .submenu {
     display: none;
