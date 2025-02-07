@@ -1,9 +1,28 @@
 A. Research title: "Comparative Analysis of Successful and Failed Enterprise System Implementations"
-b. Case Study 1: Successful Enterprise System Implementation
-     b.1. company overview (Why the enterprise system was implemented)
-     b.2. implementation process
+
+b. Case Study 1: Successful Enterprise System Implementation "PalFinger"  
+
+    
+     b.1. company overview:
+     Palfinger is one of a leading manufacturer of innovative crane and lifting solutions. To improve the global collaboration and enhancing the efficiency in creating projects, the company decided to implement an system, enterprise system. In which, the goal is to improve data transparency, and better communication across teams.
+
+     b.2. implementation process 
+     In 2022, Palfinger adopted Smartsheet, a workflow and project management tool. The system is flexible, ease of use, and has a ability to be customized without the need for external developers. Palfinger gradually rolled out the system, ensuring teams were trained and the software was adapted to specific workflows.
+
      b.3. Key success factors
+     -User-Friendy Interface: Employees can quickly adapt to Smartsheet due to its spreadsheet like.
+     -Customization: No-code automation allowed teams to tailor the system to their needs.
+     -Collaboration: Improved communication and data sharing.
+     -Standardized Reporting: Provide clear visibility into ongoing projects and progress.
+
      b.4. outcomes & impact
+     The implementation led to improved the project management, reduced email-traffic, and fewer meetings. Team had real-time visibility into project status, leading to better decision making and smooth execution of initiatives.
+
+
+
+
+
+
 c. case study 2: Failed Enterprise System Implementation
      c.1. company overview (Reason for implementing the enterprise system)
      c.2. implementation process & challenges
