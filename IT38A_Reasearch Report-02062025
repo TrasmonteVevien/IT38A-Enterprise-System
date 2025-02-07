@@ -19,15 +19,27 @@ b. Case Study 1: Successful Enterprise System Implementation "PalFinger"
      The implementation led to improved the project management, reduced email-traffic, and fewer meetings. Team had real-time visibility into project status, leading to better decision making and smooth execution of initiatives.
 
 
+c. Case Study 2: Failed Enterprise System Implementation "Hershey's" 
 
 
+     c.1. company overview:
+     Hershey is a major chocolate manufacturer, decided to implement an enterprise system in year 1996 to upgrade it's outdated IT infrastructure and prepare for the Y2K transition. The company aimed to integrate it's ERP, supply chain management (SCM), and customer relationship management (CRM) systems into one unified platform.
 
-
-c. case study 2: Failed Enterprise System Implementation
-     c.1. company overview (Reason for implementing the enterprise system)
      c.2. implementation process & challenges
+     Hershey choose SAP's/3 ERP, Manugistics' SCM, and Siebe's CRM for integration. While experts recommended a 48 months of implementation timeline. However, the company insisted to implement it within 30 months to meet the Y2K deadline. The aggressive schedule led to rushed testing and inadequate preparation. The system failures prevented the company from processing $100 million worth of orders despite having the inventory in stock.
+
      c.3. Key failure factors
+     -Unrealistic Timeline: Short schedule can led to incomplete testing.
+     -Insufficient Testing: Rushed implementation left undetected bugs in the system.
+     -Poor Scheduling: Lunching the system during peak sales resulted a severe disruptions.
+
      c.4. outcomes & consequences
+     Failed implementation caused a 19% drop in quarterly profits and an 8% decline in stock price. The reputation of the company took a hit ,and the company struggled to fulfill their customers order during sales periods.
+
+
+
+
+
 d. Comparative analysis: create a table for both case study 1 & 2.
      d.1. Similarities & Differences
      d.2. Critical Success vs. Failure Factors
