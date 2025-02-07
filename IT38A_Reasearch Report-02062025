@@ -1,6 +1,6 @@
 A. Research title: "Comparative Analysis of Successful and Failed Enterprise System Implementations"
 
-b. Case Study 1: "PalFinger"  Successful Enterprise System Implementation  
+b. Case Study 1: "PalFinger" Successful Enterprise System Implementation  
 
     
      b.1. company overview:
@@ -17,6 +17,7 @@ b. Case Study 1: "PalFinger"  Successful Enterprise System Implementation
 
      b.4. outcomes & impact
      The implementation led to improved the project management, reduced email-traffic, and fewer meetings. Team had real-time visibility into project status, leading to better decision making and smooth execution of initiatives.
+
 
 
 c. Case Study 2: "Hershey's"  Failed Enterprise System Implementation 
@@ -37,6 +38,7 @@ c. Case Study 2: "Hershey's"  Failed Enterprise System Implementation
      Failed implementation caused a 19% drop in quarterly profits and an 8% decline in stock price. The reputation of the company took a hit ,and the company struggled to fulfill their customers order during sales periods.
 
 
+
 d. Comparative analysis:
 
      d.1. Similarities & Differences 
@@ -48,6 +50,8 @@ b.Testing Procedures: Thorough testing and customization before full deployment.
 c.Go-Live Scheduling: Implemented during a manageable period, avoiding peak times.    Launched during peak sales season, leading to disruptions. 
 d.User Adoption: User-friendly system with proper training.                          Employees were not adequately trained before launch. 
 e.Outcomes: Improved efficiency, better collaboration, and streamlined processes.    System failures, financial losses, and reputational damage. 
+
+
 
      d.2. Critical Success vs. Failure Factors
     
@@ -64,14 +68,15 @@ e.Outcomes: Improved efficiency, better collaboration, and streamlined processes
      Poor Timing: Launched system during peak sales period. 
 
 
+
      d.3. Key Takeaways & Lessons Learned include the following questions:
             1. What did the successful case do right?
-            Palfinger selected a system that was easy to use and customize, allowed time gradual adoption and testing
-,and Implementation was scheduled to avoid business disruptions.
+            Palfinger selected a system that was easy to use and customize, allowed time gradual adoption and testing ,and Implementation was scheduled to avoid business disruptions.
             2. What went wrong in the failed case?
             Hershey's rushed the implementation to meet the arbitrary due, the testing was insufficient that leads to undetected bugs that cause system failures, the system went live at worst possible time-during peak sales.
             3. How can future implementations avoid similar failures?
             Follow the realistic timeline, ensure enough time for testing, avoid lunching new system during peak operational periods, provide adequate training to employees before deploying.
+
 
  e. Insights & recommendations
      e.1. Best Practices for Successful Enterprise System Implementation
@@ -80,6 +85,7 @@ e.Outcomes: Improved efficiency, better collaboration, and streamlined processes
     Dont rush the implementation due, schedule the go-live phase to minimize risks, conduct system checking before deployment. 
      e.3. Future Research Opportunities
     Explore AI-driven ERP solutions for improvement efficiency, study additional case studies to identify common trends, investigate how small businesses implement a system with a limited resources.
+
 
 f. References
 https://products.tatasteelnederland.com/applications/engineering/case-studies/palfinger
